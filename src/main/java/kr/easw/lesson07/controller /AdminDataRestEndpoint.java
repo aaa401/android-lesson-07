@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
 
-// @RestController 어노테이션을 사용하여 이 클래스가 REST 컨트롤러임을 선언합니다.
+// @RestController 어노테이션을 사용하여 이 클래스가 REST 컨트롤러임을 선언
 @RestController
 // @RequestMapping 어노테이션을 사용하여 이 클래스의 기반 엔드포인트를 /api/v1/data/admin으로 설정합니다.
 @RequestMapping("/api/v1/data/admin")
