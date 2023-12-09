@@ -1,4 +1,4 @@
-package kr.easw.lesson07.configurations;
+package configurations;
 
 import kr.easw.lesson07.Constants;
 import kr.easw.lesson07.auth.JwtFilterChain;
